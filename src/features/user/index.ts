@@ -1,6 +1,6 @@
 import TransactionChart from "./components/tx-chart"
 import QuickServices from "./components/quick-services"
-import Sidebar from "./components/sidebar"
+import Sidebar from "../../shared/components/sidebar"
 import DashboardPage from "./pages/dashboard"
 import UserLayout from "./components/layout"
 

@@ -1,8 +1,8 @@
 import React from "react";
 import { Outlet } from "react-router-dom";
-import Sidebar from "../../../shared/components/sidebar";
 import { Box } from "@mui/material";
-import Topbar from "../../../shared/components/topbar";
+import Sidebar from "../components/sidebar";
+import Topbar from "../components/topbar";
 
 const UserLayout = () => {
   return (
